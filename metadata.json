@@ -1,0 +1,8 @@
+{
+  "name": "Absensi Pengajian Online",
+  "description": "Sistem absensi online pengajian masjid dan kelompok dengan akun master, manajemen jamaah laki-laki/perempuan, jadwal materi, dan rekap kehadiran interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,1206 @@
+{
+  "settings": {
+    "masterUsername": "admin",
+    "masterPassword": "master123",
+    "appName": "Absensi Pengajian Online",
+    "allowEditPastDays": true,
+    "lastUpdated": "2026-09-23T08:30:53.971Z"
+  },
+  "groups": [
+    {
+      "id": "grp-1",
+      "name": "Kelompok Penajam",
+      "masjidName": "Mushola LDII Penajam",
+      "address": "Penajam",
+      "adminName": "H.SUnari",
+      "pin": "1234"
+    },
+    {
+      "id": "grp-2",
+      "name": "Kelompok Gunung Steleng",
+      "masjidName": "Mushola Nur Hasan",
+      "address": "Gunung Steleng",
+      "adminName": "Ahmad Saleh",
+      "pin": "2345"
+    },
+    {
+      "id": "grp-3",
+      "name": "Sub Kelompok Nipah-Nipah",
+      "masjidName": "Masjid Miftahul Jannah",
+      "address": "Nipah-Nipah",
+      "adminName": "H. Sunari",
+      "pin": "3456"
+    },
+    {
+      "id": "grp-mudtqbef",
+      "name": "Taanjung",
+      "masjidName": "Masjid Miftahul Huda",
+      "address": "Tanjung",
+      "adminName": "Bpk. Nasrudin",
+      "pin": "1234"
+    },
+    {
+      "id": "grp-mudtrd7p",
+      "name": "Sub Tanjung",
+      "masjidName": "Mushola Roudhatul Jannah",
+      "address": "Tanjung",
+      "adminName": "Bpk. Nasrudin",
+      "pin": "1234"
+    },
+    {
+      "id": "grp-mudtse4z",
+      "name": "Lawe-Lawe",
+      "masjidName": "Masjid Al-Munajjah",
+      "address": "Girimukti",
+      "adminName": "H. Agus Mujiono",
+      "pin": "1234"
+    },
+    {
+      "id": "grp-mudtt9ep",
+      "name": "Nusantara",
+      "masjidName": "Masjid Nurul Jannah",
+      "address": "Nusantara",
+      "adminName": "Imam Solikhin",
+      "pin": "1234"
+    },
+    {
+      "id": "grp-mudttz39",
+      "name": "Petung",
+      "masjidName": "Masjid Al-Jannatunnaim",
+      "address": "Petung",
+      "adminName": "H. Sutris",
+      "pin": "1234"
+    },
+    {
+      "id": "grp-mudtvkv6",
+      "name": "Giripurwa",
+      "masjidName": "Masjid Al-Amin",
+      "address": "Giripurwa",
+      "adminName": "Bpk. Seno",
+      "pin": "1234"
+    },
+    {
+      "id": "grp-muducrpn",
+      "name": "Bere-Bere",
+      "masjidName": "Masjid Nurussalam",
+      "address": "Tanjung Tengah",
+      "adminName": "H. Mustakim",
+      "pin": "1234"
+    },
+    {
+      "id": "grp-mududgj8",
+      "name": "Waru",
+      "masjidName": "Masjid Al-Madinah",
+      "address": "Waru",
+      "adminName": "Bpk. Jumadi",
+      "pin": "1234"
+    },
+    {
+      "id": "grp-mudueevs",
+      "name": "Babulu",
+      "masjidName": "Masjid Manba'ul Huda",
+      "address": "Babulu",
+      "adminName": "Bpk Supani",
+      "pin": "1234"
+    },
+    {
+      "id": "grp-mudufjf7",
+      "name": "Sub Riko",
+      "masjidName": "Mushola LDII Riko",
+      "address": "Riko",
+      "adminName": "Bpk. Mamat",
+      "pin": "1234"
+    }
+  ],
+  "materials": [
+    {
+      "id": "mat-1",
+      "number": 1,
+      "title": "Al-Quran",
+      "description": "Tadarus, terjemah, dan pemahaman makna ayat suci Al-Quran"
+    },
+    {
+      "id": "mat-2",
+      "number": 2,
+      "title": "Al-Hadist",
+      "description": "Kajian hadits shahih, tata krama, dan sunnah Rasulullah SAW"
+    },
+    {
+      "id": "mat-3",
+      "number": 3,
+      "title": "Makalah CAI",
+      "description": "Materi Cinta Alam Indonesia (CAI) dan wawasan kebangsaan"
+    },
+    {
+      "id": "mat-4",
+      "number": 4,
+      "title": "Pembacaan Teks & Notulen",
+      "description": "Penyampaian maklumat, informasi penting, dan notulen rapat"
+    },
+    {
+      "id": "mat-5",
+      "number": 5,
+      "title": "Organisasi",
+      "description": "Pembinaan keorganisasian, kedisiplinan, dan ketertiban jamaah"
+    },
+    {
+      "id": "mat-6",
+      "number": 6,
+      "title": "Persinas ASAD",
+      "description": "Seni bela diri pencak silat, kebugaran fisik, dan budi pekerti"
+    },
+    {
+      "id": "mat-7",
+      "number": 7,
+      "title": "Musyawarah 5 Unsur",
+      "description": "Evaluasi program dan koordinasi musyawarah 5 unsur pengurus"
+    },
+    {
+      "id": "mat-8",
+      "number": 8,
+      "title": "Penerobosan Daerah",
+      "description": "Arahan pengurus daerah untuk percepatan program pembinaan"
+    },
+    {
+      "id": "mat-9",
+      "number": 9,
+      "title": "Penerobosan Desa",
+      "description": "Penyampaian program dan target capaian tingkat desa/kelompok"
+    }
+  ],
+  "schedules": {
+    "grp-1": [
+      {
+        "id": "sch-senin",
+        "dayName": "Senin",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-1",
+          "mat-2",
+          "mat-4"
+        ],
+        "instructor": "Ustadz Abdullah / Ust. Ridwan",
+        "notes": "Kajian Al-Quran & Al-Hadist rutin ba’da Isya"
+      },
+      {
+        "id": "sch-rabu",
+        "dayName": "Rabu",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-1",
+          "mat-3",
+          "mat-5"
+        ],
+        "instructor": "Ust. Hendra & Dewan Penasihat",
+        "notes": "Kajian Al-Quran, Makalah CAI, dan Keorganisasian"
+      },
+      {
+        "id": "sch-jumat",
+        "dayName": "Jumat",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-2",
+          "mat-6",
+          "mat-7"
+        ],
+        "instructor": "Ust. Fajar & Pembina ASAD",
+        "notes": "Kajian Hadist, Persinas ASAD & Musyawarah 5 Unsur"
+      }
+    ],
+    "grp-2": [
+      {
+        "id": "sch-senin",
+        "dayName": "Senin",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-1",
+          "mat-2",
+          "mat-4"
+        ],
+        "instructor": "Ustadz Abdullah / Ust. Ridwan",
+        "notes": "Kajian Al-Quran & Al-Hadist rutin ba’da Isya"
+      },
+      {
+        "id": "sch-rabu",
+        "dayName": "Rabu",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-1",
+          "mat-3",
+          "mat-5"
+        ],
+        "instructor": "Ust. Hendra & Dewan Penasihat",
+        "notes": "Kajian Al-Quran, Makalah CAI, dan Keorganisasian"
+      },
+      {
+        "id": "sch-jumat",
+        "dayName": "Jumat",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-2",
+          "mat-6",
+          "mat-7"
+        ],
+        "instructor": "Ust. Fajar & Pembina ASAD",
+        "notes": "Kajian Hadist, Persinas ASAD & Musyawarah 5 Unsur"
+      }
+    ],
+    "grp-3": [
+      {
+        "id": "sch-senin",
+        "dayName": "Senin",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-1",
+          "mat-2",
+          "mat-4"
+        ],
+        "instructor": "Ustadz Abdullah / Ust. Ridwan",
+        "notes": "Kajian Al-Quran & Al-Hadist rutin ba’da Isya"
+      },
+      {
+        "id": "sch-rabu",
+        "dayName": "Rabu",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-1",
+          "mat-3",
+          "mat-5"
+        ],
+        "instructor": "Ust. Hendra & Dewan Penasihat",
+        "notes": "Kajian Al-Quran, Makalah CAI, dan Keorganisasian"
+      },
+      {
+        "id": "sch-jumat",
+        "dayName": "Jumat",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-2",
+          "mat-6",
+          "mat-7"
+        ],
+        "instructor": "Ust. Fajar & Pembina ASAD",
+        "notes": "Kajian Hadist, Persinas ASAD & Musyawarah 5 Unsur"
+      }
+    ],
+    "grp-mudtqbef": [
+      {
+        "id": "sch-senin",
+        "dayName": "Senin",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-1",
+          "mat-2",
+          "mat-4"
+        ],
+        "instructor": "Ustadz Abdullah / Ust. Ridwan",
+        "notes": "Kajian Al-Quran & Al-Hadist rutin ba’da Isya"
+      },
+      {
+        "id": "sch-rabu",
+        "dayName": "Rabu",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-1",
+          "mat-3",
+          "mat-5"
+        ],
+        "instructor": "Ust. Hendra & Dewan Penasihat",
+        "notes": "Kajian Al-Quran, Makalah CAI, dan Keorganisasian"
+      },
+      {
+        "id": "sch-jumat",
+        "dayName": "Jumat",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-2",
+          "mat-6",
+          "mat-7"
+        ],
+        "instructor": "Ust. Fajar & Pembina ASAD",
+        "notes": "Kajian Hadist, Persinas ASAD & Musyawarah 5 Unsur"
+      }
+    ],
+    "grp-mudtrd7p": [
+      {
+        "id": "sch-senin",
+        "dayName": "Senin",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-1",
+          "mat-2",
+          "mat-4"
+        ],
+        "instructor": "Ustadz Abdullah / Ust. Ridwan",
+        "notes": "Kajian Al-Quran & Al-Hadist rutin ba’da Isya"
+      },
+      {
+        "id": "sch-rabu",
+        "dayName": "Rabu",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-1",
+          "mat-3",
+          "mat-5"
+        ],
+        "instructor": "Ust. Hendra & Dewan Penasihat",
+        "notes": "Kajian Al-Quran, Makalah CAI, dan Keorganisasian"
+      },
+      {
+        "id": "sch-jumat",
+        "dayName": "Jumat",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-2",
+          "mat-6",
+          "mat-7"
+        ],
+        "instructor": "Ust. Fajar & Pembina ASAD",
+        "notes": "Kajian Hadist, Persinas ASAD & Musyawarah 5 Unsur"
+      }
+    ],
+    "grp-mudtse4z": [
+      {
+        "id": "sch-senin",
+        "dayName": "Senin",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-1",
+          "mat-2",
+          "mat-4"
+        ],
+        "instructor": "Ustadz Abdullah / Ust. Ridwan",
+        "notes": "Kajian Al-Quran & Al-Hadist rutin ba’da Isya"
+      },
+      {
+        "id": "sch-rabu",
+        "dayName": "Rabu",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-1",
+          "mat-3",
+          "mat-5"
+        ],
+        "instructor": "Ust. Hendra & Dewan Penasihat",
+        "notes": "Kajian Al-Quran, Makalah CAI, dan Keorganisasian"
+      },
+      {
+        "id": "sch-jumat",
+        "dayName": "Jumat",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-2",
+          "mat-6",
+          "mat-7"
+        ],
+        "instructor": "Ust. Fajar & Pembina ASAD",
+        "notes": "Kajian Hadist, Persinas ASAD & Musyawarah 5 Unsur"
+      }
+    ],
+    "grp-mudtt9ep": [
+      {
+        "id": "sch-senin",
+        "dayName": "Senin",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-1",
+          "mat-2",
+          "mat-4"
+        ],
+        "instructor": "Ustadz Abdullah / Ust. Ridwan",
+        "notes": "Kajian Al-Quran & Al-Hadist rutin ba’da Isya"
+      },
+      {
+        "id": "sch-rabu",
+        "dayName": "Rabu",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-1",
+          "mat-3",
+          "mat-5"
+        ],
+        "instructor": "Ust. Hendra & Dewan Penasihat",
+        "notes": "Kajian Al-Quran, Makalah CAI, dan Keorganisasian"
+      },
+      {
+        "id": "sch-jumat",
+        "dayName": "Jumat",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-2",
+          "mat-6",
+          "mat-7"
+        ],
+        "instructor": "Ust. Fajar & Pembina ASAD",
+        "notes": "Kajian Hadist, Persinas ASAD & Musyawarah 5 Unsur"
+      }
+    ],
+    "grp-mudttz39": [
+      {
+        "id": "sch-senin",
+        "dayName": "Senin",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-1",
+          "mat-2",
+          "mat-4"
+        ],
+        "instructor": "Ustadz Abdullah / Ust. Ridwan",
+        "notes": "Kajian Al-Quran & Al-Hadist rutin ba’da Isya"
+      },
+      {
+        "id": "sch-rabu",
+        "dayName": "Rabu",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-1",
+          "mat-3",
+          "mat-5"
+        ],
+        "instructor": "Ust. Hendra & Dewan Penasihat",
+        "notes": "Kajian Al-Quran, Makalah CAI, dan Keorganisasian"
+      },
+      {
+        "id": "sch-jumat",
+        "dayName": "Jumat",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-2",
+          "mat-6",
+          "mat-7"
+        ],
+        "instructor": "Ust. Fajar & Pembina ASAD",
+        "notes": "Kajian Hadist, Persinas ASAD & Musyawarah 5 Unsur"
+      }
+    ],
+    "grp-mudtvkv6": [
+      {
+        "id": "sch-senin",
+        "dayName": "Senin",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-1",
+          "mat-2",
+          "mat-4"
+        ],
+        "instructor": "Ustadz Abdullah / Ust. Ridwan",
+        "notes": "Kajian Al-Quran & Al-Hadist rutin ba’da Isya"
+      },
+      {
+        "id": "sch-rabu",
+        "dayName": "Rabu",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-1",
+          "mat-3",
+          "mat-5"
+        ],
+        "instructor": "Ust. Hendra & Dewan Penasihat",
+        "notes": "Kajian Al-Quran, Makalah CAI, dan Keorganisasian"
+      },
+      {
+        "id": "sch-jumat",
+        "dayName": "Jumat",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-2",
+          "mat-6",
+          "mat-7"
+        ],
+        "instructor": "Ust. Fajar & Pembina ASAD",
+        "notes": "Kajian Hadist, Persinas ASAD & Musyawarah 5 Unsur"
+      }
+    ],
+    "grp-muducrpn": [
+      {
+        "id": "sch-senin",
+        "dayName": "Senin",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-1",
+          "mat-2",
+          "mat-4"
+        ],
+        "instructor": "Ustadz Abdullah / Ust. Ridwan",
+        "notes": "Kajian Al-Quran & Al-Hadist rutin ba’da Isya"
+      },
+      {
+        "id": "sch-rabu",
+        "dayName": "Rabu",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-1",
+          "mat-3",
+          "mat-5"
+        ],
+        "instructor": "Ust. Hendra & Dewan Penasihat",
+        "notes": "Kajian Al-Quran, Makalah CAI, dan Keorganisasian"
+      },
+      {
+        "id": "sch-jumat",
+        "dayName": "Jumat",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-2",
+          "mat-6",
+          "mat-7"
+        ],
+        "instructor": "Ust. Fajar & Pembina ASAD",
+        "notes": "Kajian Hadist, Persinas ASAD & Musyawarah 5 Unsur"
+      }
+    ],
+    "grp-mududgj8": [
+      {
+        "id": "sch-senin",
+        "dayName": "Senin",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-1",
+          "mat-2",
+          "mat-4"
+        ],
+        "instructor": "Ustadz Abdullah / Ust. Ridwan",
+        "notes": "Kajian Al-Quran & Al-Hadist rutin ba’da Isya"
+      },
+      {
+        "id": "sch-rabu",
+        "dayName": "Rabu",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-1",
+          "mat-3",
+          "mat-5"
+        ],
+        "instructor": "Ust. Hendra & Dewan Penasihat",
+        "notes": "Kajian Al-Quran, Makalah CAI, dan Keorganisasian"
+      },
+      {
+        "id": "sch-jumat",
+        "dayName": "Jumat",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-2",
+          "mat-6",
+          "mat-7"
+        ],
+        "instructor": "Ust. Fajar & Pembina ASAD",
+        "notes": "Kajian Hadist, Persinas ASAD & Musyawarah 5 Unsur"
+      }
+    ],
+    "grp-mudueevs": [
+      {
+        "id": "sch-senin",
+        "dayName": "Senin",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-1",
+          "mat-2",
+          "mat-4"
+        ],
+        "instructor": "Ustadz Abdullah / Ust. Ridwan",
+        "notes": "Kajian Al-Quran & Al-Hadist rutin ba’da Isya"
+      },
+      {
+        "id": "sch-rabu",
+        "dayName": "Rabu",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-1",
+          "mat-3",
+          "mat-5"
+        ],
+        "instructor": "Ust. Hendra & Dewan Penasihat",
+        "notes": "Kajian Al-Quran, Makalah CAI, dan Keorganisasian"
+      },
+      {
+        "id": "sch-jumat",
+        "dayName": "Jumat",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-2",
+          "mat-6",
+          "mat-7"
+        ],
+        "instructor": "Ust. Fajar & Pembina ASAD",
+        "notes": "Kajian Hadist, Persinas ASAD & Musyawarah 5 Unsur"
+      }
+    ],
+    "grp-mudufjf7": [
+      {
+        "id": "sch-senin",
+        "dayName": "Senin",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-1",
+          "mat-2",
+          "mat-4"
+        ],
+        "instructor": "Ustadz Abdullah / Ust. Ridwan",
+        "notes": "Kajian Al-Quran & Al-Hadist rutin ba’da Isya"
+      },
+      {
+        "id": "sch-rabu",
+        "dayName": "Rabu",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-1",
+          "mat-3",
+          "mat-5"
+        ],
+        "instructor": "Ust. Hendra & Dewan Penasihat",
+        "notes": "Kajian Al-Quran, Makalah CAI, dan Keorganisasian"
+      },
+      {
+        "id": "sch-jumat",
+        "dayName": "Jumat",
+        "time": "19:30",
+        "isActive": true,
+        "defaultMateriIds": [
+          "mat-2",
+          "mat-6",
+          "mat-7"
+        ],
+        "instructor": "Ust. Fajar & Pembina ASAD",
+        "notes": "Kajian Hadist, Persinas ASAD & Musyawarah 5 Unsur"
+      }
+    ]
+  },
+  "jamaahList": [
+    {
+      "id": "j-101",
+      "groupId": "grp-1",
+      "name": "H. Ahmad Sudirman",
+      "gender": "L",
+      "category": "bapak",
+      "phone": "081234567801",
+      "isActive": true,
+      "notes": "Imam Masjid"
+    },
+    {
+      "id": "j-102",
+      "groupId": "grp-1",
+      "name": "Bambang Supriyadi",
+      "gender": "L",
+      "category": "bapak",
+      "phone": "081234567802",
+      "isActive": true
+    },
+    {
+      "id": "j-103",
+      "groupId": "grp-1",
+      "name": "Muhammad Rizky Fauzi",
+      "gender": "L",
+      "category": "pemuda",
+      "phone": "081234567803",
+      "isActive": true,
+      "notes": "Ketua Pemuda"
+    },
+    {
+      "id": "j-104",
+      "groupId": "grp-1",
+      "name": "Drs. Hendro Wibowo",
+      "gender": "L",
+      "category": "bapak",
+      "phone": "081234567804",
+      "isActive": true
+    },
+    {
+      "id": "j-105",
+      "groupId": "grp-1",
+      "name": "Fajar Nugraha",
+      "gender": "L",
+      "category": "pemuda",
+      "phone": "081234567805",
+      "isActive": true
+    },
+    {
+      "id": "j-106",
+      "groupId": "grp-1",
+      "name": "Agus Salim",
+      "gender": "L",
+      "category": "bapak",
+      "phone": "081234567806",
+      "isActive": true
+    },
+    {
+      "id": "j-107",
+      "groupId": "grp-1",
+      "name": "Dimas Prasetyo",
+      "gender": "L",
+      "category": "pemuda",
+      "phone": "081234567807",
+      "isActive": true
+    },
+    {
+      "id": "j-108",
+      "groupId": "grp-1",
+      "name": "H. Mulyadi",
+      "gender": "L",
+      "category": "bapak",
+      "phone": "081234567808",
+      "isActive": true
+    },
+    {
+      "id": "j-109",
+      "groupId": "grp-1",
+      "name": "Hj. Siti Aminah",
+      "gender": "P",
+      "category": "ibu",
+      "phone": "081234567809",
+      "isActive": true,
+      "notes": "Koordinator Keputrian"
+    },
+    {
+      "id": "j-110",
+      "groupId": "grp-1",
+      "name": "Nurul Hidayati, S.Pd",
+      "gender": "P",
+      "category": "ibu",
+      "phone": "081234567810",
+      "isActive": true
+    },
+    {
+      "id": "j-111",
+      "groupId": "grp-1",
+      "name": "Dewi Kartika Sari",
+      "gender": "P",
+      "category": "pemudi",
+      "phone": "081234567811",
+      "isActive": true
+    },
+    {
+      "id": "j-112",
+      "groupId": "grp-1",
+      "name": "Tri Wahyuni",
+      "gender": "P",
+      "category": "ibu",
+      "phone": "081234567812",
+      "isActive": true
+    },
+    {
+      "id": "j-113",
+      "groupId": "grp-1",
+      "name": "Anisa Rahmawati",
+      "gender": "P",
+      "category": "pemudi",
+      "phone": "081234567813",
+      "isActive": true
+    },
+    {
+      "id": "j-114",
+      "groupId": "grp-1",
+      "name": "Endang Kusuma",
+      "gender": "P",
+      "category": "ibu",
+      "phone": "081234567814",
+      "isActive": true
+    },
+    {
+      "id": "j-115",
+      "groupId": "grp-1",
+      "name": "Nabila Azzahra",
+      "gender": "P",
+      "category": "pemudi",
+      "phone": "081234567815",
+      "isActive": true
+    },
+    {
+      "id": "j-201",
+      "groupId": "grp-2",
+      "name": "Ust. Budi Santoso",
+      "gender": "L",
+      "category": "bapak",
+      "phone": "081234567821",
+      "isActive": true
+    },
+    {
+      "id": "j-202",
+      "groupId": "grp-2",
+      "name": "Aris Munandar",
+      "gender": "L",
+      "category": "bapak",
+      "phone": "081234567822",
+      "isActive": true
+    },
+    {
+      "id": "j-203",
+      "groupId": "grp-2",
+      "name": "Iqbal Ramadhan",
+      "gender": "L",
+      "category": "pemuda",
+      "phone": "081234567823",
+      "isActive": true
+    },
+    {
+      "id": "j-204",
+      "groupId": "grp-2",
+      "name": "Wahyu Hidayat",
+      "gender": "L",
+      "category": "pemuda",
+      "phone": "081234567824",
+      "isActive": true
+    },
+    {
+      "id": "j-205",
+      "groupId": "grp-2",
+      "name": "Suhartono",
+      "gender": "L",
+      "category": "bapak",
+      "phone": "081234567825",
+      "isActive": true
+    },
+    {
+      "id": "j-206",
+      "groupId": "grp-2",
+      "name": "Kusumawati",
+      "gender": "P",
+      "category": "ibu",
+      "phone": "081234567826",
+      "isActive": true
+    },
+    {
+      "id": "j-207",
+      "groupId": "grp-2",
+      "name": "Laila Fitriani",
+      "gender": "P",
+      "category": "pemudi",
+      "phone": "081234567827",
+      "isActive": true
+    },
+    {
+      "id": "j-208",
+      "groupId": "grp-2",
+      "name": "Rina Marlina",
+      "gender": "P",
+      "category": "ibu",
+      "phone": "081234567828",
+      "isActive": true
+    },
+    {
+      "id": "j-301",
+      "groupId": "grp-3",
+      "name": "M. Syarifuddin",
+      "gender": "L",
+      "category": "bapak",
+      "phone": "081234567831",
+      "isActive": true
+    },
+    {
+      "id": "j-302",
+      "groupId": "grp-3",
+      "name": "Guruh Wicaksono",
+      "gender": "L",
+      "category": "pemuda",
+      "phone": "081234567832",
+      "isActive": true
+    },
+    {
+      "id": "j-303",
+      "groupId": "grp-3",
+      "name": "Eko Prasetyo",
+      "gender": "L",
+      "category": "bapak",
+      "phone": "081234567833",
+      "isActive": true
+    },
+    {
+      "id": "j-304",
+      "groupId": "grp-3",
+      "name": "Ratna Juwita",
+      "gender": "P",
+      "category": "ibu",
+      "phone": "081234567834",
+      "isActive": true
+    },
+    {
+      "id": "j-305",
+      "groupId": "grp-3",
+      "name": "Zahra Maulida",
+      "gender": "P",
+      "category": "pemudi",
+      "phone": "081234567835",
+      "isActive": true
+    },
+    { "id": "j-bere-p-01", "groupId": "grp-muducrpn", "name": "Endang", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-02", "groupId": "grp-muducrpn", "name": "Nani", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-03", "groupId": "grp-muducrpn", "name": "Diana", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-04", "groupId": "grp-muducrpn", "name": "Fida", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-05", "groupId": "grp-muducrpn", "name": "Dilna", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-06", "groupId": "grp-muducrpn", "name": "Keke", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-07", "groupId": "grp-muducrpn", "name": "Badinah", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-08", "groupId": "grp-muducrpn", "name": "Mare", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-09", "groupId": "grp-muducrpn", "name": "Sari", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-10", "groupId": "grp-muducrpn", "name": "Rohma", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-11", "groupId": "grp-muducrpn", "name": "Sitti", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-12", "groupId": "grp-muducrpn", "name": "Rukiyah", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-13", "groupId": "grp-muducrpn", "name": "Aminah", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-14", "groupId": "grp-muducrpn", "name": "Mika", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-15", "groupId": "grp-muducrpn", "name": "Mita", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-16", "groupId": "grp-muducrpn", "name": "Yati", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-17", "groupId": "grp-muducrpn", "name": "Eka", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-18", "groupId": "grp-muducrpn", "name": "Isnaini", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-19", "groupId": "grp-muducrpn", "name": "Nilam", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-20", "groupId": "grp-muducrpn", "name": "Lela", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-21", "groupId": "grp-muducrpn", "name": "Lindi", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-22", "groupId": "grp-muducrpn", "name": "Maskanah", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-23", "groupId": "grp-muducrpn", "name": "Titis", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-24", "groupId": "grp-muducrpn", "name": "Lilis", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-25", "groupId": "grp-muducrpn", "name": "Miscel", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-26", "groupId": "grp-muducrpn", "name": "Nurung", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-27", "groupId": "grp-muducrpn", "name": "Marhuma", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-28", "groupId": "grp-muducrpn", "name": "Baraiyah", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-29", "groupId": "grp-muducrpn", "name": "Nuraini", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-30", "groupId": "grp-muducrpn", "name": "Jija", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-31", "groupId": "grp-muducrpn", "name": "Rita", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-32", "groupId": "grp-muducrpn", "name": "Khusnul", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-33", "groupId": "grp-muducrpn", "name": "Naimah", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-34", "groupId": "grp-muducrpn", "name": "Dinul", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-35", "groupId": "grp-muducrpn", "name": "Naura", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-36", "groupId": "grp-muducrpn", "name": "Mala", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-37", "groupId": "grp-muducrpn", "name": "Wati", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-38", "groupId": "grp-muducrpn", "name": "Bella", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-39", "groupId": "grp-muducrpn", "name": "Anggie", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-40", "groupId": "grp-muducrpn", "name": "Ria", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-41", "groupId": "grp-muducrpn", "name": "Inong", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-42", "groupId": "grp-muducrpn", "name": "Ina", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-43", "groupId": "grp-muducrpn", "name": "Mia", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-44", "groupId": "grp-muducrpn", "name": "Tanawali", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-45", "groupId": "grp-muducrpn", "name": "Ninda", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-p-46", "groupId": "grp-muducrpn", "name": "Yunita", "gender": "P", "category": "ibu", "isActive": true },
+    { "id": "j-bere-l-01", "groupId": "grp-muducrpn", "name": "Usep", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-02", "groupId": "grp-muducrpn", "name": "Kiki", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-03", "groupId": "grp-muducrpn", "name": "Masrandi", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-04", "groupId": "grp-muducrpn", "name": "Jumari", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-05", "groupId": "grp-muducrpn", "name": "Satria", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-06", "groupId": "grp-muducrpn", "name": "Amiruddin", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-07", "groupId": "grp-muducrpn", "name": "Ibra", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-08", "groupId": "grp-muducrpn", "name": "Mustaqim", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-09", "groupId": "grp-muducrpn", "name": "Wahyu", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-10", "groupId": "grp-muducrpn", "name": "Galeh", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-11", "groupId": "grp-muducrpn", "name": "Latif", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-12", "groupId": "grp-muducrpn", "name": "Heru", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-13", "groupId": "grp-muducrpn", "name": "Amin Iis", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-14", "groupId": "grp-muducrpn", "name": "Jaya", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-15", "groupId": "grp-muducrpn", "name": "Hadi", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-16", "groupId": "grp-muducrpn", "name": "Munir", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-17", "groupId": "grp-muducrpn", "name": "Amin Lilis", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-18", "groupId": "grp-muducrpn", "name": "Marvel", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-19", "groupId": "grp-muducrpn", "name": "Qodir", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-20", "groupId": "grp-muducrpn", "name": "Ramadian", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-21", "groupId": "grp-muducrpn", "name": "Ambo Alang", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-22", "groupId": "grp-muducrpn", "name": "Rian", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-23", "groupId": "grp-muducrpn", "name": "Fahrey", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-24", "groupId": "grp-muducrpn", "name": "Jumardi", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-25", "groupId": "grp-muducrpn", "name": "Jeje", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-26", "groupId": "grp-muducrpn", "name": "Edy", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-27", "groupId": "grp-muducrpn", "name": "Panca", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-28", "groupId": "grp-muducrpn", "name": "Ilyas", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-29", "groupId": "grp-muducrpn", "name": "Razka", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-30", "groupId": "grp-muducrpn", "name": "Sodikin", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-31", "groupId": "grp-muducrpn", "name": "Muslimin", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-32", "groupId": "grp-muducrpn", "name": "Rifa'i", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-33", "groupId": "grp-muducrpn", "name": "Sulaiman", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-34", "groupId": "grp-muducrpn", "name": "Syahruddin", "gender": "L", "category": "bapak", "isActive": true },
+    { "id": "j-bere-l-35", "groupId": "grp-muducrpn", "name": "Sarifuddin", "gender": "L", "category": "bapak", "isActive": true }
+  ],
+  "attendanceSessions": [
+    {
+      "id": "grp-1-2026-09-18",
+      "groupId": "grp-1",
+      "date": "2026-09-18",
+      "dayName": "Jumat",
+      "time": "19:30",
+      "materiIds": [
+        "mat-2",
+        "mat-6",
+        "mat-7"
+      ],
+      "materiNote": "Kitab Shahih Bukhari Bab Niat & Latihan Jurus 1-3 Persinas ASAD",
+      "submittedAt": "2026-09-18T20:45:00.000Z",
+      "submittedBy": "H. Suwandi",
+      "notes": "Pengajian berjalan tertib dan khidmat",
+      "records": {
+        "j-101": {
+          "jamaahId": "j-101",
+          "status": "hadir"
+        },
+        "j-102": {
+          "jamaahId": "j-102",
+          "status": "hadir"
+        },
+        "j-103": {
+          "jamaahId": "j-103",
+          "status": "hadir"
+        },
+        "j-104": {
+          "jamaahId": "j-104",
+          "status": "izin",
+          "permissionReason": "Lembur Pekerjaan"
+        },
+        "j-105": {
+          "jamaahId": "j-105",
+          "status": "hadir"
+        },
+        "j-106": {
+          "jamaahId": "j-106",
+          "status": "sakit",
+          "note": "Demam tinggi"
+        },
+        "j-107": {
+          "jamaahId": "j-107",
+          "status": "hadir"
+        },
+        "j-108": {
+          "jamaahId": "j-108",
+          "status": "alpa"
+        },
+        "j-109": {
+          "jamaahId": "j-109",
+          "status": "hadir"
+        },
+        "j-110": {
+          "jamaahId": "j-110",
+          "status": "hadir"
+        },
+        "j-111": {
+          "jamaahId": "j-111",
+          "status": "hadir"
+        },
+        "j-112": {
+          "jamaahId": "j-112",
+          "status": "izin",
+          "permissionReason": "Acara Keluarga"
+        },
+        "j-113": {
+          "jamaahId": "j-113",
+          "status": "hadir"
+        },
+        "j-114": {
+          "jamaahId": "j-114",
+          "status": "hadir"
+        },
+        "j-115": {
+          "jamaahId": "j-115",
+          "status": "hadir"
+        }
+      }
+    },
+    {
+      "id": "grp-1-2026-09-21",
+      "groupId": "grp-1",
+      "date": "2026-09-21",
+      "dayName": "Senin",
+      "time": "19:30",
+      "materiIds": [
+        "mat-1",
+        "mat-2",
+        "mat-4"
+      ],
+      "materiNote": "Tadarus QS Ali Imran ayat 1-25 & Notulen Pengajian Daerah",
+      "submittedAt": "2026-09-21T20:30:00.000Z",
+      "submittedBy": "H. Suwandi",
+      "records": {
+        "j-101": {
+          "jamaahId": "j-101",
+          "status": "hadir"
+        },
+        "j-102": {
+          "jamaahId": "j-102",
+          "status": "hadir"
+        },
+        "j-103": {
+          "jamaahId": "j-103",
+          "status": "hadir"
+        },
+        "j-104": {
+          "jamaahId": "j-104",
+          "status": "hadir"
+        },
+        "j-105": {
+          "jamaahId": "j-105",
+          "status": "hadir"
+        },
+        "j-106": {
+          "jamaahId": "j-106",
+          "status": "hadir"
+        },
+        "j-107": {
+          "jamaahId": "j-107",
+          "status": "izin",
+          "permissionReason": "Kuliah Malam"
+        },
+        "j-108": {
+          "jamaahId": "j-108",
+          "status": "hadir"
+        },
+        "j-109": {
+          "jamaahId": "j-109",
+          "status": "hadir"
+        },
+        "j-110": {
+          "jamaahId": "j-110",
+          "status": "hadir"
+        },
+        "j-111": {
+          "jamaahId": "j-111",
+          "status": "sakit",
+          "note": "Flu & Batuk"
+        },
+        "j-112": {
+          "jamaahId": "j-112",
+          "status": "hadir"
+        },
+        "j-113": {
+          "jamaahId": "j-113",
+          "status": "hadir"
+        },
+        "j-114": {
+          "jamaahId": "j-114",
+          "status": "hadir"
+        },
+        "j-115": {
+          "jamaahId": "j-115",
+          "status": "hadir"
+        }
+      }
+    }
+  ]
+}
